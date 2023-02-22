@@ -1,4 +1,14 @@
-Flask Website:
+* Flask Website:
+
+*** New Features Update (Feb 22 2023):
+- Main route automatically takes you to login form
+  - If user input, main page shows welcome message with username. If no input, user is redirected to login page.
+- Total Visits Route
+  - Every time refresh button is hit, counter goes up.
+- Form Demo
+  - Practice page to go along with asynchronous videos.
+- Logout
+  - Clears username and redirects user to login page.
 
 Replit: https://replit.com/@YLevels/Demo-Flask-Project#main.py
 
